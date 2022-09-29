@@ -166,7 +166,7 @@ async (error) => {
 - 링크 : https://www.erdcloud.com/d/cgGQJj8g4hhMfWDwF
 <br/>
 
-### 디렉터리 폴더 구조
+### 📁 폴더 구조
 ```bash
 📦back
  ┣ 📂app
@@ -298,4 +298,12 @@ async (error) => {
 | **findTop10AllByOrderByAuthorCountDesc()** |상위 10개 내림차순 정렬|
 | **findRestaurantByRestaurantCategoryContainingOrRestaurantNameContaining()** |특정 단어 검색 시 관련 식당 조회 가능(sql like 명령어와 유사)|
 
+	
+---
+
+## 트러블슈팅
+
+###프론트엔드
+	
+###백엔드
 
