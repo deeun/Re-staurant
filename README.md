@@ -286,10 +286,4 @@ async (error) => {
 | **findRestaurantByRestaurantCategoryContainingOrRestaurantNameContaining()** |특정 단어 검색 시 관련 식당 조회 가능(sql like 명령어와 유사)|
 
 
----
-	
-## 트러블슈팅
-	
-### 프론트엔드
-	
-### 백엔드
+
